@@ -1,7 +1,9 @@
-flask
-pandas
+Flask
+flask-cors
 scikit-learn
+pandas
+numpy
+openpyxl
 fuzzywuzzy
 python-Levenshtein
-openpyxl
 gunicorn
